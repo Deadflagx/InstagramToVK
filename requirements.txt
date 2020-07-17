@@ -1,0 +1,4 @@
+InstagramAPI
+requests
+vk_api
+PIL
